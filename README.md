@@ -11,17 +11,6 @@ It follows an end-to-end workflow from data loading and cleaning in SQL to build
 2. Performed data cleaning and transformation using SQL  
 3. Connected SQL database to Power BI  
 4. Built interactive dashboards for insights  
-
----
-
-## 📌 Dashboards
-
-### 🔹 Transaction Analysis Dashboard
-![Transaction Dashboard](screenshots/transaction-dashboard.png)
-
-### 🔹 Customer Insights Dashboard
-![Customer Dashboard](screenshots/customer-dashboard.png)
-
 ---
 ## 📁 Project Structure
 
