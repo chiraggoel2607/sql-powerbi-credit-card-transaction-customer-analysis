@@ -23,21 +23,19 @@ It follows an end-to-end workflow from data loading and cleaning in SQL to build
 ![Customer Dashboard](screenshots/customer-dashboard.png)
 
 ---
+## 📁 Project Structure
+
+sql/ # SQL queries for data preparation
+powerbi/ # Power BI dashboard (.pbix file)
+data/ # Raw datasets (CSV files)
+reports/ # Exported dashboard (PDF)
+screenshots/ # Dashboard images
+README.md
 
 ## 🔧 Tools & Technologies
 - SQL (Data Preparation & Analysis)  
 - Power BI (Data Visualization)  
 - Excel / CSV (Data Source)  
-
----
-
-## 📁 Project Structure
-sql/
-powerbi/
-data/
-reports/
-screenshots/
-README.md
 
 ---
 
